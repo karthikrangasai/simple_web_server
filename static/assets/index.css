@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	margin: 0 auto;
+	background-color: black;
+	color: white;
+}
+
+canvas {
+	display: block;
+}
+
+h1 {
+	margin: 48vh auto;
+	color: white;
+}
